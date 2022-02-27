@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An help to prayer: for the catechised youth of the Church of England Very useful for parents and masters to teach their children and servants how to pray. Imprimatur, Martii, 22. 1677/8 Guil. Sill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86186</idno>
+            <idno type="STC">Wing H1405A</idno>
+            <idno type="STC">ESTC R230322</idno>
+            <idno type="EEBO-CITATION">99896248</idno>
+            <idno type="PROQUEST">99896248</idno>
+            <idno type="VID">153979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2392:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An help to prayer: for the catechised youth of the Church of England Very useful for parents and masters to teach their children and servants how to pray. Imprimatur, Martii, 22. 1677/8 Guil. Sill.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M.C. for Henry Brome, at the Gun at the West end of St. Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:153979:1" rendition="simple:additions"/>
+AN <hi>Help to Prayer:</hi> FOR THE Catechiſed YOUTH OF THE CHURCH OF <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>Very uſeful for Parents and Maſters to teach their Children and Servants how to Pray.</hi>
+            </p>
+            <p>Imprimatur, <hi>Martii,</hi> 22. 1677/8</p>
+            <p>
+               <hi>Guil. Sill.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. C.</hi> for <hi>Henry Brome,</hi> at the Gun at the Weſt end of St. <hi>Pauls.</hi> 1678.</p>
+            <pb facs="tcp:153979:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153979:2"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> PREFACE TO THE Chriſtian Readers.</head>
+            <p>PRayer is the moſt comprehenſive In<g ref="char:EOLhyphen"/>ſtance of Religious Worſhip, which we all ought to give unto God from our Youth up, and (to ſay nothing of its other Benefit,) of greateſt influence into a good and vertuous life. It is great pity therefore that any ſhould neglect thus to Honour God and Profit themſelves, for want of ſome plain and uſeful Help for the due performance of it.</p>
+            <p>Thoſe that ſtand moſt in need of Aſsi<g ref="char:EOLhyphen"/>ſtance this way, are the younger and more ignorant ſort of People, Children and Ser<g ref="char:EOLhyphen"/>vants: whoſe Capacities are well to be con<g ref="char:EOLhyphen"/>ſidered of: That neither their underſtand<g ref="char:EOLhyphen"/>ings be confounded with things above their reach, nor their memories over-burthened with too great a length or variety.</p>
+            <p>
+               <pb facs="tcp:153979:3"/>
+And, for ſuch as theſe, methinks nothing can be more appoſite than the pious an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wholeſome Direction of a Reverend Divine in his late Treatiſe of Prayer, <hi>That the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would learn the Lord Prayer, with the Explica<g ref="char:EOLunhyphen"/>tion</hi> 
+               <note place="margin">Dr. <hi>Brigh</hi> Treat of Prayer, <hi>Cap.</hi> 5. <hi>Sect.</hi> 19. p. 387.</note> 
+               <hi>of it, and the ſum o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ten Commandment in the Church-Catechiſm turned into Prayer, and other ſhort comprehenſive Forms: and that Parents would be careful to teach their Children ſuch, and ſee they ſay them.</hi>
+            </p>
+            <p>In purſuance of which Excellent Advice <hi>I</hi> do heartily recommend the enſuing Plat<g ref="char:punc">▪</g>form to all whoſe hearts God ſhall incline to make uſe of it: where I have prefixed the, open and perſonal Profeſsion of Chriſtianity it ſelf, according to our Baptiſmal Vow; Point which I conceive of great uſefulneſs in it ſelf, and the greater ſtill, becauſe Con<g ref="char:EOLhyphen"/>firmation is ſo much neglected.</p>
+            <p>This Religious courſe will make the Plai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Godly Principles of the Church Catechiſm
+<pb facs="tcp:153979:3"/>
+which is too commonly deſpiſed) to take the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeper Root, and ſtick the faſter in the minds <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd affections of thoſe that have learnt it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd help exceedingly to reduce thoſe fruitful Principles into practice: being a continual Monitor both of the threefold Engagement <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve are under as Chriſtians, and the chief Rules we are taught to obſerve in Order to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur diſcharge thereof.</p>
+            <p>I will ſay no more of it farther, but this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it ſeems to me a good expedient againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nany extravagancies, which attend Arbitra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and Extempore Devotions: and may poſsi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly train up a Generation of Honeſt and Orderly Chriſtians to ſucceed us.</p>
+            <p>Only I muſt admoniſh thoſe who make uſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Plat-form, theſe two things in the General.</p>
+            <p n="1">
+               <hi>I.</hi> That they bethink themſelves what they are going about; namely to Addreſs unto, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſhip the Great God of Heaven and Earth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho is preſent with them, though they ſee him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot, to behold and obſerve all their carriage: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd,</p>
+            <p n="2">
+               <hi>II.</hi> That they ſay and repeat every clauſe
+<pb facs="tcp:153979:4"/>
+Leiſurely, Gravely, Diſtinctly; and labour to keep their Eyes from wandring, and their Thoughts as intent as may be, to the words they utter; and, as they grow in years, im<g ref="char:EOLhyphen"/>prove in the conſidering more deliberately of them, and being affected with them.</p>
+            <p>And ſo I leave this Charitable Help, in<g ref="char:EOLhyphen"/>tended for Beginners, to their kind accep<g ref="char:EOLhyphen"/>tance, and God Almighty's Bleſsing upon the conſcionable uſe of it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153979:4"/>
+            <head>AN <hi>Help to Prayer.</hi>
+            </head>
+            <div type="prayer">
+               <head>Fall down upon thy Knees with Reverence, and ſay;</head>
+               <p>GOD be merciful to me a Sinner! Enter not into judgment with thy ſervant, O Lord: for in thy ſight ſhall no man li<g ref="char:EOLhyphen"/>ving be juſtified.</p>
+            </div>
+            <div type="prayer">
+               <head>A Form of daily acknowledging and confirming our Bap<g ref="char:EOLhyphen"/>tiſmal Vow.</head>
+               <p>I Do, before God and his Holy Angels, Acknow<g ref="char:EOLhyphen"/>ledg and Renew the Solemn Promiſe and Vow, made in my name at Baptiſm; and do verily think, that I am bound in Conſcience,</p>
+               <p n="1">I. To renounce the Devil, and all his works, the Pomps, and Vanities of this wicked World, and all the ſinful Luſts of the Fleſh:</p>
+               <p n="2">II. Heartily to Believe, and openly to profeſs, All the Articles of the Chriſtian Faith: and</p>
+               <p n="3">III. To Keep God's Holy Will and Command<g ref="char:EOLhyphen"/>ments, and walk in the ſame all the days of my Life.</p>
+               <p>And Thus, by God's help, I will do.</p>
+               <p>And I heartily thank our Heavenly Father, that
+<pb facs="tcp:153979:5"/>
+he hath called me to this ſtate of Salvation through Jeſus Chriſt our Saviour: that is, that he hath made me a Member of Chriſt, a child of God, and an In<g ref="char:EOLhyphen"/>heritour of the Kingdom of Heaven, upon theſe Gracious Terms and Conditions which are all for my greateſt Good.</p>
+               <p>But, knowing that I am not able to do theſe things of my ſelf, I pray unto God for his Grace, which he hath promiſed unto them that ask it, that I may both perform and continue in the ſame to my live's end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>Then ſay the Lord's Prayer.</head>
+               <l>
+                  <hi>OUr Father which art in Heaven,</hi>
+               </l>
+               <l>
+                  <hi>Hallowed be thy name;</hi>
+               </l>
+               <l>
+                  <hi>Thy Kingdom come;</hi>
+               </l>
+               <l>
+                  <hi>Thy will be done in Earth, as it is in Heaven;</hi>
+               </l>
+               <l>
+                  <hi>Give us this day our daily bread;</hi>
+               </l>
+               <l>
+                  <hi>And Forgive us our Treſpaſſes, as we For<g ref="char:EOLhyphen"/>give them that treſpaſs againſt us;</hi>
+               </l>
+               <l>
+                  <hi>And Lead us not into Temptation,</hi>
+               </l>
+               <l>
+                  <hi>But Deliver us from Evil;</hi>
+               </l>
+               <l>
+                  <hi>For Thine is the Kindgdom, and the Power, and the Glory for ever and ever.</hi> Amen.</l>
+               <div type="paraphrase">
+                  <head>And add this Paraphraſe upon it.</head>
+                  <p>O Lord God, our Heavenly Father, the Giver of All Goodneſs!</p>
+                  <p>Send thy Grace, I beſeech thee, unto me and All people, That we may Worſhip Thee, Serve Thee, and Obey Thee, as we ought to do: even as Saints and Angels do in Heaven.</p>
+                  <p>And I pray unto Thee, O God, That Thou wouldſt
+<pb facs="tcp:153979:5"/>
+ſend us All things, that be needful, both for our Souls and Bodies; for this Life and a Better.</p>
+                  <p>And that Thou wouldſt be Merciful unto us, and forgive us our Sins upon our True Repentance; As Thou haſt Commanded us, and by Thy Grace we are Diſpoſed to Forgive thoſe that Treſpaſs a<g ref="char:EOLhyphen"/>gainſt us.</p>
+                  <p>And that it will pleaſe Thee to ſave and defend us in all dangers, Ghoſtly and Bodily, That we be not hurt by the Aſſaults of the one or other.</p>
+                  <p>And that Thou wouldſt keep us from all Sin and Wickedneſs; [which is the greateſt evil] and from that evil one, our Ghoſtly Enemy, [the Devil] and from Everlaſting Death; the moſt dreadful of penal evils, which is the due wages of Sin.</p>
+                  <p>And all this, O Heav'nly King and Father; as Thou art able to do by Thy Power, ſo, I truſt, Thou wilt do for us of Thy Mercy and Goodneſs, which is Thy chiefeſt Glory, through our Lord Jeſus Chriſt: and therefore, to teſtifie both my earneſt Deſire and Hope, I ſay, <hi>Amen.</hi> So be it. So by the Grace of God it ſhall be.</p>
+               </div>
+            </div>
+            <div type="doxology">
+               <head>In ſtead of the Creed this Doxology.</head>
+               <q>
+                  <hi>Then riſe up, and, inſtead of the Creed, which thou mayſt ſometimes alſo Rehearſe, ſay this</hi> Dox<g ref="char:EOLhyphen"/>ology <hi>devoutly, which takes in the</hi> Three things <hi>that we</hi> chiefly <hi>learn from thence.</hi>
+               </q>
+               <p>Glory be to God, the Father of our Lord Jeſus Chriſt, the Creator, Preſerver and Governour of all things, viſible and inviſible, who hath made, doth Preſerve and Govern me, and all the World!</p>
+               <p>
+                  <pb facs="tcp:153979:6"/>
+And to the Only-Begotten Son of that Eternal Father, who in the fulneſs of Time was made Man, and hath Redeemed me, and all Man-kind, with his moſt precious Blood!</p>
+               <p>And to the Holy Ghoſt, proceeding from the Fa<g ref="char:EOLhyphen"/>ther and the Son, the Sacred Spirit of Light, and Grace, and Comfort, who ſanctifieth me, and all the Elect people of God, that is, all true Chriſtians!</p>
+               <p>As it was in the Beginning, is now, and ever ſhall be, world without End. <hi>Amen.</hi> Lord, I believe, help Thou my Unbelief.</p>
+            </div>
+            <div type="prayer">
+               <head>Then fall again on thy Knees, as before, and ſay</head>
+               <p>Have Mercy upon me, O Lord, <note place="margin">The X. Command<g ref="char:EOLhyphen"/>ments turn'd into Prayer.</note> have Mercy upon me, a miſerable Offender; for ever miſerable, without Thy Mercy; and incline my heart to keep all Thy Commandments, I be<g ref="char:EOLhyphen"/>ſeech Theee:</p>
+               <p>That I may both know and practice my bounden Duty.</p>
+               <div type="prayer">
+                  <head>The ſum of the firſt Table.</head>
+                  <p>That I may Believe whatſoever Thou ſayeſt, who art Truth it ſelf; and fear to Offend Thy Maje<g ref="char:EOLhyphen"/>ſty; and love Thee above all, with all my Heart and Mind, and Soul, and Strength; That I may Worſhip Thee as Thou requireſt, in SPIRIT and TRUTH: that I may in every thing give Thanks unto Thee for thy Benefits; and at all times put my whole Truſt and Confidence in Thee;
+<pb facs="tcp:153979:6"/>
+and in all my wants call upon Thee by Prayer and Supplication: That I may Honour Thy Holy Name, and Thy Word; and ſerve Thee truly, as on the Days ſet apart for thy Worſhip, ſo all the Days of my Life.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Sum of the ſecond Table.</head>
+                  <p>And that, for Thy ſake, I may love my Neigh<g ref="char:EOLhyphen"/>bours as my ſelf; and do unto all and every Man as I would they ſhould do unto me, in the like Relation and Condition of Life:</p>
+                  <p>More particularly,</p>
+                  <p>That, as a dutiful Child, I may Love, Honour and Succour upon occaſion, as I am able, my Na<g ref="char:EOLhyphen"/>tural Parents, Father and Mother:</p>
+                  <p>That, as a Good and Loyal Subject, I may Ho<g ref="char:EOLhyphen"/>nour and Obey the King, [the Father of my Country] and all that are put in Authority under him:</p>
+                  <p>That I may ſubmit my ſelf to all my Governours, Teachers, Spiritual Paſtors, and Maſters:</p>
+                  <p>That I may order my ſelf lowly and reverently to all my B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tters:</p>
+                  <p>That I may hurt no Body by Word or Deed; but be true and juſt to all my dealings:</p>
+                  <p>That I may bear no Malice, nor Hatred or Revenge in my heart: [which is Spiritual Murther.]</p>
+                  <p>That I may keep my hands from Picking and Stealing; which is often a ſtep to greater wickedneſs.</p>
+                  <p>That I may keep my Tongue [that unruly Mem<g ref="char:EOLhyphen"/>ber] from evil Speaking, Lying, and Slandering; [ſo common in the World.]</p>
+                  <p>
+                     <pb facs="tcp:153979:7"/>
+That I may keep my Body in Temperance, Sober<g ref="char:EOLhyphen"/>neſs and Chaſtity, undefiled with Fleſhly luſts, ſuch as the Sins of Gluttony, and Drunkenneſs, Fornica<g ref="char:EOLhyphen"/>tion and Adultery.</p>
+                  <p>That I may not ſo much as Covet or deſire Other men's Goods; but learn and labour truly, [with Con<g ref="char:EOLhyphen"/>tentment and Diligence] to get my own living, and do my duty in that ſtate of Life, whatſoever it be, un<g ref="char:EOLhyphen"/>to which it ſhall pleaſe Thee to call me. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>Concluding with this Collect.</head>
+               <p>O Almighty Lord, and Everlaſting <note place="margin">The Collect to be added hereto.</note> God; Vouchſafe, I beſeech Thee, to Direct, Sanctifie, and Govern both my Heart and Body, in the Ways of theſe thy Holy Laws, and the Works of Thy Commandments; that through thy moſt Mighty Protection, both here and ever, I may be preſerved in Body and Soul, through our Lord and Saviour Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayers">
+               <head>
+                  <hi>Then ſay the Collect for</hi> Morning, <hi>or</hi> Evening.</head>
+               <div n="morning" type="prayer">
+                  <head>
+                     <hi>For the</hi> Morning.</head>
+                  <p>O Lord, and Heavenly Father, Almighty and Ever<g ref="char:EOLhyphen"/>laſting God, who haſt ſafely brought me to the begin<g ref="char:EOLhyphen"/>ning of this Day; [for which I bleſs thee] defend me in the ſame with thy Mighty power; and grant, that this Day I fall into no Sin, nor run into any kind of danger; but that all my doings being ordered by Thy Gover<g ref="char:EOLhyphen"/>nance, I may do always that which is righteous in Thy ſight, Through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div n="evening" type="prayer">
+                  <head>
+                     <hi>For the</hi> Evening.</head>
+                  <p>Lighten my Darkneſs, I beſeech Thee, O Lord
+<pb facs="tcp:153979:7"/>
+[and Father of Lights] and by thy great Mercy defend me from all Perils and dangers of this night, for the Love of thy only Son, <hi>my Saviour, Jeſus Chriſt.</hi> Amen.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>
+                  <hi>Then Recommend thy ſelf, Relations and Friends to God's Bleſſing,</hi> Thus,</head>
+               <p>God the Father, God the Son, <note place="margin">The concluding Benedictions.</note> God the Holy Ghoſt, whoſe I am, and whom I ſerve; in whoſe Name I was Baptized, and to whoſe Faith and Fear I am de<g ref="char:EOLhyphen"/>voted, Bleſs me both in Soul and Body, Proſper the work of my hands, and the way of my goings; and to<g ref="char:EOLhyphen"/>gether with me, Bleſs my Sovereign Lord the King, with all the Royal Family, and all that Miniſter under him, both in Church and State; my Honoured Parents, and thoſe in their place and ſtead; my Father and Mo<g ref="char:EOLhyphen"/>ther, Grand-father and Grand-Mother, God-Fathers and God-Mothers, Uncles and Aunts, my Brothers and Siſters, with the reſt of my natural Kindred and Relati<g ref="char:EOLhyphen"/>ons; my Maſter and Miſtreſs, all my Benefactors and good Friends; the Family wherein I am and all the Neighbourhood about me; with all Bleſſings Tempo<g ref="char:EOLhyphen"/>ral and Spiritual, Now and Ever. <hi>Amen.</hi>
+               </p>
+               <p>Thy Grace, O Lord Jeſus Chriſt, Thy Love O Heavenly Father; Thy in-lightning, Sanctifying and Comforting Fellowſhip, O Sacred Spirit, be with me, and all I ſhould pray for, This day [or this night] and Evermore. <hi>Amen, Amen.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:153979:8"/>
+            <head>Poſtſcript.</head>
+            <p>IF this courſe of Prayer ſeem too <hi>long</hi> for any, they may ſometimes omit one part, and ſometimes ano<g ref="char:EOLhyphen"/>ther; but ſo, as to reaſſume them at times of greater vacancy and leiſure, ſuch as Sundays and Holy-days; wherein I adviſe to uſe them all.</p>
+            <p>And, if any, on the other ſide, think them too <hi>ſhort;</hi> They have a farther ſupply at hand in the Publick Li<g ref="char:EOLhyphen"/>turgie; out of which I recommend to them theſe parti<g ref="char:EOLhyphen"/>cular Prayers and Collects to be gotten without Book.</p>
+            <p>The Prayer for all Conditions of men, and</p>
+            <p>The General Thanks-giving.</p>
+            <div type="prayer">
+               <head>
+                  <hi>Then before they read in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ibles, or go to Church to Hear,</hi> This Collect.</head>
+               <p>Bleſſed Lord, who hath cauſed all Holy Scriptures to be written for our Learning: Grant that we may in ſuch wiſe Hear them, Read, Mark, Learn, and inwardly Digeſt them, that by Patience and Comfort of Thy Holy word we may embrace, and ever hold faſt the Bleſſed Hope of Everlaſting Life, which thou haſt given us in our Saviour Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>After Reading or Hearing, This.</head>
+               <p>Grant, we beſeech Thee Almighty God, that the Words which we have this day Read [or Heard with our outward ears] may through thy Grace be ſo graft<g ref="char:EOLhyphen"/>ed inwardly in our Hearts, that they may bring forth in us the Fruit of good living, to the Honour and Praiſe of thy name, through <hi>Jeſus Chriſt</hi> our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:153979:8"/>
+               <head>Grace <hi>before Meals.</hi>
+               </head>
+               <p>O God, in whom I Live, and Move, and have my Being, bleſs thy good Creatures, I beſeech Thee, to my Uſe, and me to thy Service, through Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>After Meats.</head>
+               <p>The God of all Power and Glory, who hath Created, Redeemed, and at this time plentifully fed me, His Holy Name be Bleſſed and Praiſed for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon all occaſions, Theſe Pious Collects.</head>
+               <p>Lord of all Power and Might, who art the Author and Giver of all good things, graft in our Hearts the Love of thy name; increaſe in us true Religion; nou<g ref="char:EOLhyphen"/>riſh us with all Goodneſs, and of thy great Mercy keep us in the ſame; through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>Almighty and Everlaſting God, who hateſt nothing that thou haſt made, and doſt forgive the ſins of all them that are Penitent; Create and make in us New and Contrite Hearts, that we, worthily lamenting our Sins, and acknowledging our Wretchedneſs, may obtain of Thee, the God of all Mercy, perfect Remiſſion and For<g ref="char:EOLhyphen"/>giveneſs; through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>Almighty God, who haſt given Thine only Son to be unto us both a Sacrifice for Sin, and alſo an Example of Godly Life; give us Grace, that we may always moſt thankfully receive that his ineſtimable Benefit; and alſo daily endeavour our ſelves to follow the Bleſſed ſteps of his moſt Holy Life, through the ſame Jeſus Chriſt our Lord. <hi>Amen. [With many others.]</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:153979:9"/>
+            <head>
+               <hi>Books Printed for</hi> Henry Brome, <hi>at the</hi> Gun <hi>at the Weſt-end of St.</hi> Pauls. 1678.</head>
+            <p>Mr. <hi>Comber</hi>'s Companion to the Temple: Or, a help to Devotion in the daily uſe of the Common-Prayer.</p>
+            <p>Biſhop <hi>Wilkins</hi> Natural Religion.</p>
+            <p>
+               <hi>Bonas</hi>'s Precepts; or Practical Rules for a Chriſtian Life.</p>
+            <p>His Guide to Eternity.</p>
+            <p>The Reformed Monaſtery; Or, the Love of Jeſus. A ſure and ſhort, pleaſant and eaſie way to Hea<g ref="char:EOLhyphen"/>ven. In Meditations, Directions, and Reſoluti<g ref="char:EOLhyphen"/>ons to Love and Obey Jeſus unto Death.</p>
+            <p>Mr. <hi>Glanvill</hi> of Preaching.</p>
+            <p>Dr. <hi>Sparks</hi>'s Devotions on the Feaſts and Faſts of the Chriſtians.</p>
+            <p>Dr. <hi>Du Moulin</hi>'s Prayers.</p>
+            <p>Mr. <hi>Campfields</hi> Diſcourſe of Angels.</p>
+            <p>The Fathers Legacy; or Counſels to his Children and Friends.</p>
+            <p>Dr. <hi>Woodford</hi> on the Pſalms.</p>
+            <p>His Divine Poems.</p>
+            <p>
+               <hi>Senecás</hi> Morals, of Benefits, a Happy Life, Clemen<g ref="char:EOLhyphen"/>cy and Anger.</p>
+            <p>Several Sermons at Court, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
